@@ -1,0 +1,19 @@
+{
+    "request": {
+      "header": {
+        "Content-Type": "application/json"
+      },
+      "body": {}
+    },
+    "response": {
+      "header": {
+        "X-Custom-Header": "Virtualized"
+      },
+      "body": {
+        "data": {
+          "id": 1,
+          "name": "Nome 1"
+        }
+      }
+    }
+  }
